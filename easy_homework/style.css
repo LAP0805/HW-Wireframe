@@ -1,0 +1,80 @@
+body {
+    font-family:arial, Helvetica Neue, Helvetica, sans-serif;
+    color: #777777;
+    background: #777777;
+    width: 960px;
+    font-size:18px;
+}
+
+* {
+    box-sizing: border-box;
+    }
+.box {
+            float: left;
+            width: 25%;
+        }   
+.white-background {
+    position: relative;
+    overflow: hidden;
+    margin:10px 10px 10px 10px;
+    background: #ebebeb;
+    text-align: center;
+}
+header {
+    padding: 10px 10px;
+    text-align: center;
+    width: 495px;
+    overflow: hidden;
+}
+nav {
+    padding: 10px 10px;
+    text-align:center;
+    width: 495px;
+}
+section {
+    overflow: hidden;
+    padding: 10px 10px;
+    margin:10px 10px 10px 10px;
+    background: #ebebeb;
+    text-align:center;
+    
+}
+article {
+    overflow: hidden;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    color: #ebebeb; 
+    background: #777777;
+}
+h1 {
+    padding: 10px 10px 10px 10px;
+    overflow: hidden;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    color: #777777;
+}
+p { margin: 10px 10px 10px 10px;
+    overflow: hidden;
+    padding: 10px 10px 10px 10px;
+     text-align: center;
+     color: #777777;
+
+}
+
+aside { 
+    display: inline-block;
+    width: 235px;
+    height: 215px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    overflow: hidden;
+}
+footer {
+    clear: left;
+    padding: 10px 10px;
+    overflow: hidden;
+    text-align: center;
+    width: 495px;
+}
